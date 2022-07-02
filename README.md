@@ -1,5 +1,9 @@
 # Mid-term-Group-1
 
+### Authers : Mohammad Azim,  Mohammad Alshish,  Abdalrahman Mansor,  Malak Odtalla,  Sondos Majid
+
+ 
+
 ### Deliverable
 
 What are the key strengths of each person on the team?
